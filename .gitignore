@@ -3,4 +3,4 @@
 target/
 demo1.iml
 .idea
-.gitignore
+/.gitignore
